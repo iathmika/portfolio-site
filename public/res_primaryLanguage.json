@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Athmika Hebbar. I am a Software Engineer and a Researcher at the University of Edinburgh. I have two years of experience in crafting innovative and efficient software solutions. I thrive on solving complex problems and creating seamless user experiences through both backend and frontend development. \nI did my masters in Computer Science from the University of Edinburgh. Prior to this, I completed my Bachelor of Technology from University of Mumbai and worked as a Software Engineer at Helpshift. I enjoy solving coding problems on Leetcode.  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Recipe Search Engine",
+        "startDate": "2023",
+        "description": "Built a Recipe Search Engine as part of the ‘Text Technologies for Data Science’ course upon a large dataset of 2.2 million recipes using positional inverted index for information retrieval. This system was built using Django framework, react for the UI, MongoDB for storing the recipe data, and hosted on Google Cloud Server (GCP) with features like advanced search, query expansion, query optimization, live indexing, Redis caching.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Flexibility Data Exploration",
+        "startDate": "2024",
+        "description": "",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,14 +55,38 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Energy Management System",
+        "startDate": "2023",
+        "description": "Conducted extensive data mining activities on the IDEAL scottish household energy dataset to find anomalies and patterns using unsupervised learning and trained Machine Learning regression models to predict average monthly consumption and cost for Scottish households, enhancing results through visualisation.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/iathmika/EnergyInsights",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Flexibility Interface",
+        "startDate": "2024",
+        "description": "Developed a website using Wix's Velo API that allows users to simulate running their appliances at preferred time and finding out the cheapest time and savings if run on the Octopus Agile tariff instead of standard tariffs.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://ahebbar7.wixsite.com/website-1",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,37 +105,60 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "University of Edinburgh",
+        "title": "Software Engineer",
+        "years": "10.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Python",
+          "AWS",
+          "Machine Learning",
+          "Data Mining",
+          "Pandas",
+          "Data Cleaning",
+          "Matplotlib",
+          "MySQL"
+         
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Helpshift",
+        "title": "Software Engineer",
+        "years": "07.2021 - 08.2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "MongoDB",
+          "Python",
+          "React",
+          "Clojure",
+          "AWS",
+          "Jenkins CI/CD",
+          "Docker",
+          "Redis",
+          "Kibana",
+          "Linux"
+        ]
+      },
+      {
+        "company": "Larsen & Toubro",
+        "title": "Software Engineering Intern",
+        "years": "06.2019 - 08.2019",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML/CSS",
+          "Javascript",
+          "C",
+          "Debugging",
+          "Bash"
         ]
       }
     ]
