@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import { Icon } from "@iconify/react";
+import pythonIcon from "@iconify/icons-logos/python";
+import reactIcon from "@iconify/icons-logos/react";
 
 class Footer extends Component {
   render() {
@@ -16,20 +19,39 @@ class Footer extends Component {
 
     return (
       <footer>
-        <div className="col-md-12">
-          <div className="social-links">{networks}</div>
+       
+      
+          
+          <div>
+         <div>
+          <br/> <br/>
+         <span className="section-title">Send me an email </span>
+        
+         </div>
+         <span> athmikah@gmail.com </span>
+        </div>
 
+       <div>
+         
+       
+          <div className="social-links">
+            <span className="section-title"> FIND ME ON </span>
+            <br/>
+            {networks}
+        
+          </div>
+        </div>
           <div className="copyright py-4 text-center">
             <div className="container">
-              <small>
+              {/* <small> 
                 Copyright &copy;{" "}
                 {this.props.sharedBasicInfo
                   ? this.props.sharedBasicInfo.name
                   : "???"}
-              </small>
+              </small> */}
             </div>
           </div>
-        </div>
+   
       </footer>
     );
   }
