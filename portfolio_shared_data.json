@@ -1,0 +1,89 @@
+{
+    "basic_info": {
+      "name": "Athmika Hebbar",
+      "titles": [ "Software Engineer", "Researcher", "Learner" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/iathmika",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/athmika",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "leetcode",
+          "url": "https://leetcode.com/u/athmikah/",
+          "class": "simple-icons--leetcode"
+        }
+      ],
+      "image": "programmer.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
+          "level": "80"
+        },
+        {
+          "name": "scikit-learn",
+          "class": "devicon-scikitlearn-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "75"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-plain",
+          "level": "85"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
+        }
+
+      ]
+    }
+  }
