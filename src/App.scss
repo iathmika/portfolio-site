@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #c1b4e2;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -74,7 +74,7 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #c9b4e2;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -90,11 +90,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #c9b4e2;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #c9b4e2;
 	height: 25px;
 }
 
@@ -172,7 +172,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 400px;
 }
 
 .polaroid span {
@@ -219,7 +219,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #b4b4e1;
 }
 
 .experience-icon {
@@ -233,7 +233,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #7e7eed !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -244,7 +244,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #d1d1eb !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -341,7 +341,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #b4b4e1;
 	padding-bottom: 5%;
 }
 
@@ -426,3 +426,39 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.contact-element-item-key {
+	color: #fff;
+	font-size: 18px;
+	margin: 20px;
+	text-align: center;
+
+}
+
+.contact-element-item-value {
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	
+}
+.simple-icons--leetcode {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	--svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23000' d='M13.483 0a1.37 1.37 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.3 5.3 0 0 0-1.209 2.104a5 5 0 0 0-.125.513a5.5 5.5 0 0 0 .062 2.362a6 6 0 0 0 .349 1.017a5.9 5.9 0 0 0 1.271 1.818l4.277 4.193l.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.38 1.38 0 0 0-1.951-.003l-2.396 2.392a3.02 3.02 0 0 1-4.205.038l-.02-.019l-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.7 2.7 0 0 1 .066-.523a2.55 2.55 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-.8-.647-1.766-1.045-2.774-1.202l2.015-2.158A1.384 1.384 0 0 0 13.483 0m-2.866 12.815a1.38 1.38 0 0 0-1.38 1.382a1.38 1.38 0 0 0 1.38 1.382H20.79a1.38 1.38 0 0 0 1.38-1.382a1.38 1.38 0 0 0-1.38-1.382z'/%3E%3C/svg%3E");
+	background-color: currentColor;
+	-webkit-mask-image: var(--svg);
+	mask-image: var(--svg);
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-size: 100% 100%;
+	mask-size: 100% 100%;
+  }
+  .logos--octopus-deploy {
+	display: inline-block;
+	width: 0.95em;
+	height: 1em;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 271'%3E%3Cpath fill='%232f93e0' d='M17.156 205.219c20.42-13.12 44.304-35.67 35.216-62.083c-4.942-14.427-11.815-26.81-12.724-42.4a95.5 95.5 0 0 1 5.68-38.852c18.375-49.019 72.676-72.221 121.723-57.51c45.44 13.632 76.68 66.4 57.88 112.379c-10.878 26.554-15.734 47.115 8.604 67.677c6.56 5.68 22.522 13.973 22.465 23.913c0 13.007-25.56-2.84-28.4-5.027c3.237 5.68 35.386 39.164 14.938 41.55c-18.829 2.186-35.471-24.112-46.775-35.387c-19-18.971-15.705 23.004-15.79 31.666c0 13.689-9.798 41.407-27.15 23.345c-14.2-14.91-8.918-38.681-18.886-55.267c-11.162-18.147-29.196 18.148-33.882 24.794c-5.055 7.412-30.416 43.338-40.527 24.196c-8.179-15.534 4.885-39.76 11.36-53.96c-2.357 5.112-18.97 12.638-23.827 15.11a64.67 64.67 0 0 1-34.478 7.951c-25.56-1.846-5.964-15.393 4.459-22.095z'/%3E%3C/svg%3E");
+  }
