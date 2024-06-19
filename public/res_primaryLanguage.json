@@ -15,42 +15,54 @@
         "startDate": "2023",
         "description": "Built a Recipe Search Engine as part of the ‘Text Technologies for Data Science’ course upon a large dataset of 2.2 million recipes using positional inverted index for information retrieval. This system was built using Django framework, react for the UI, MongoDB for storing the recipe data, and hosted on Google Cloud Server (GCP) with features like advanced search, query expansion, query optimization, live indexing, Redis caching.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/recipe.png",
+          "images/recipe.png"
         ],
-        "url": "",
+        "url": "https://github.com/iathmika/recipe_search_engine",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "mongoDB"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
           }
         ]
       },
       {
         "title": "Flexibility Data Exploration",
         "startDate": "2024",
-        "description": "",
+        "description": "Conducted data analysis using pandas on the Flexibility survey to find out patterns and insights in people's preferences in appliance use time shifting.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/flexData.png",
+          "images/flexibility.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/iathmika/energy-flexibility",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-matplotlib-plain",
+            "name": "Matplotlib"
           }
         ]
       },
@@ -59,22 +71,26 @@
         "startDate": "2023",
         "description": "Conducted extensive data mining activities on the IDEAL scottish household energy dataset to find anomalies and patterns using unsupervised learning and trained Machine Learning regression models to predict average monthly consumption and cost for Scottish households, enhancing results through visualisation.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/energy.png",
+          "images/energy2.png"
         ],
         "url": "https://github.com/iathmika/EnergyInsights",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML/CSS"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
           }
         ]
       },
@@ -83,22 +99,22 @@
         "startDate": "2024",
         "description": "Developed a website using Wix's Velo API that allows users to simulate running their appliances at preferred time and finding out the cheapest time and savings if run on the Octopus Agile tariff instead of standard tariffs.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/website.png",
+          "images/website2.png"
         ],
         "url": "https://ahebbar7.wixsite.com/website-1",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-velo-plain",
+            "name": "Velo"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
           }
         ]
       }
@@ -106,7 +122,7 @@
     "experience": [
       {
         "company": "University of Edinburgh",
-        "title": "Software Engineer",
+        "title": "Research Software Engineer",
         "years": "10.2023 - present",
         "mainTech": [
           "Python"
@@ -115,6 +131,7 @@
           "REST API",
           "JavaScript",
           "React",
+          "Tensorflow",
           "Python",
           "AWS",
           "Machine Learning",
@@ -151,7 +168,7 @@
         "title": "Software Engineering Intern",
         "years": "06.2019 - 08.2019",
         "mainTech": [
-          "Angular 7/8"
+          "C"
         ],
         "technologies": [
           "HTML/CSS",

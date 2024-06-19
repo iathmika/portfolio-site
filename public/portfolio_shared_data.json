@@ -9,33 +9,38 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/athmika",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "leetcode",
+          "url": "https://leetcode.com/u/athmikah/",
+          "class": "simple-icons--leetcode"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "programmer.jpg"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "Python",
+          "class": "devicon-react-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "React",
+          "class": "devicon-python-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "scikit-learn",
+          "class": "devicon-scikitlearn-plain",
           "level": "90"
         },
         {
@@ -44,25 +49,41 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Django",
+          "class": "devicon-django-plain",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Jenkins",
+          "class": "devicon-jenkins-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Docker",
+          "class": "devicon-docker-plain",
           "level": "65"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
         }
+
       ]
     }
   }
