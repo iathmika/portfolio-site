@@ -33,16 +33,16 @@ class Experience extends Component {
             className="vertical-timeline-element--work"
             date={work.years}
             iconStyle={{
-              background: "#AE944F",
+              background: "#7E7EED",
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className="fab fa-get-pocket experience-icon"></i>}
             key={i}
           >
-            <div style={{ textAlign: "left", marginBottom: "4px" }}>
+            {/* <div style={{ textAlign: "left", marginBottom: "4px" }}> 
               {mainTech}
-            </div>
+            </div>*/}
 
             <h3
               className="vertical-timeline-element-title"
@@ -78,7 +78,7 @@ class Experience extends Component {
             {work}
             <VerticalTimelineElement
               iconStyle={{
-                background: "#AE944F",
+                background: "#7E7EED",
                 color: "#fff",
                 textAlign: "center",
               }}
